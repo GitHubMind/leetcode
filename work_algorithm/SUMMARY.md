@@ -26,7 +26,7 @@
 - [动态规划](basic_algorithm/dp.md)
 
 ## 算法思维
-
+            
 - [递归思维](advanced_algorithm/recursion.md)
 - [滑动窗口思想](advanced_algorithm/slide_window.md)
 - [二叉搜索树](advanced_algorithm/binary_search_tree.md)
